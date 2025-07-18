@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>穿进赛博游戏后干掉boss成功上位</title>
+    <link>https://kukukukiki192.github.io/cyber-boss-podcast/</link>
+    <description>赛博朋克+克系元素的全息游戏《深红之土》即将发售。
+隗辛走了狗屎运，被选中成为了《深红之土》的内测玩家。
+然而事情朝着诡异的方向一路狂奔，她发现她不是在玩什么全息游戏，而是穿越到了一个真实存在的平行世界...</description>
+    <language>zh-CN</language>
+    <itunes:author>喜马拉雅</itunes:author>
+    <itunes:image href="https://raw.githubusercontent.com/Kukukukiki192/cyber-boss-podcast/main/cover.jpg"/>
+    <item>
+      <title>001</title>
+      <enclosure url="https://github.com/Kukukukiki192/cyber-boss-podcast/releases/download/v1.0/001.m4a" type="audio/x-m4a"/>
+      <guid>001</guid>
+      <pubDate>Fri, 18 Jul 2025 13:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>002</title>
+      <enclosure url="https://github.com/Kukukukiki192/cyber-boss-podcast/releases/download/v1.0/002.m4a" type="audio/x-m4a"/>
+      <guid>002</guid>
+      <pubDate>Fri, 18 Jul 2025 13:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>003</title>
+      <enclosure url="https://github.com/Kukukukiki192/cyber-boss-podcast/releases/download/v1.0/003.m4a" type="audio/x-m4a"/>
+      <guid>003</guid>
+      <pubDate>Fri, 18 Jul 2025 13:04:09 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
